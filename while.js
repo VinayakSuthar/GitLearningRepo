@@ -12,3 +12,5 @@ switch(game) {
     default:
         console.log('Any other');
 };
+console.log("While loop accessed");
+console.log("what about for loop");
